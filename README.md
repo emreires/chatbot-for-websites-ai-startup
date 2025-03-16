@@ -25,7 +25,7 @@ A low-cost AI chatbot solution that allows websites to integrate an intelligent 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-platform.git
+git clone https://github.com/emreires/chatbot-for-websites-ai-startup.git
 cd ai-chatbot-platform
 ```
 
